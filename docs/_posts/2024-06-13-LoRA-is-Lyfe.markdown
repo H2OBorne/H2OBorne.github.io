@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "LoRA in the Colonies"
-date:   2024-06-13 16:56:31 +1200
+date:   2024-06-13 14:56:31 +1200
 categories: LoRA
 ---
 
